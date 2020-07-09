@@ -24,6 +24,14 @@ Lazy Predict help build a lot of basic models without much code and helps unders
 * Free software: MIT license
 * Documentation: https://lazypredict.readthedocs.io.
 
+========
+Examples
+========
+
+* Quick implementation of `LazyClassifier` and `LazyRegressor`
+  * Notebook: ./examples/notebooks/ml_prediction_with_lazypredict.ipynb
+  * Google Colab Notebook: ???
+
 =====
 Usage
 =====
