@@ -29,6 +29,7 @@ Examples
 ========
 
 * Quick implementation of `LazyClassifier` and `LazyRegressor`
+
   * Notebook: ./examples/notebooks/ml_prediction_with_lazypredict.ipynb
   * Google Colab Notebook: ???
 
